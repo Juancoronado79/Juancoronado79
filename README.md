@@ -1,9 +1,6 @@
-### Hi there 👋 I am Juan Carlos Coronado Orrego
-Latino living in Germany 
+### Hi there 👋 I am Juan Carlos Coronado Orrego...Latino living in Germany
+                                  ReDI School Student 
 
-**Juancoronado79/Juancoronado79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Meal Delivery Logistics
 - 🌱 I’m currently learning ...Introduction to Computer Science
