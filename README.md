@@ -1,6 +1,6 @@
-### Hi there 👋 I am Juan Carlos Coronado orrego
+### Hi there 👋 I am Juan Carlos Coronado Orrego
+Latino living in Germany 
 
-<!--
 **Juancoronado79/Juancoronado79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
